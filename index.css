@@ -1,0 +1,24 @@
+body{
+    background-color: grey;
+}
+
+img{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+div{
+    position: absolute;
+    left: 20%;
+    width: 900px;
+    height: 1000px;
+}
+
+
+div p{
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+    font-size: 20px;
+    line-height: 2em;
+}
